@@ -5,4 +5,5 @@ class QueryRequest(BaseModel):
 
 class QueryResponse(BaseModel):
     answer: str
-    sources: list
+    # Specifying list[str] makes your API docs much cleaner
+    sources: list[str] 
