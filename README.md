@@ -209,6 +209,6 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-Fedrick Samuel W 
+Fedrick Samuel W - 
 Software Engineer | Python Developer  
 
